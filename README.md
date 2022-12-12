@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola soy Alexis Villarreal 👋
+### Estudiante de Ing. Informatica
+### Edwin Alexis Villarreal Tovar
+### I17050150
+### I17050150@monclova.tecnm.mx
+
 
 <!--
 **AlexisVillarreal/alexisvillarreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
